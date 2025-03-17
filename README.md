@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Typescript, Java and Kotlin.**
 
-- 📫 How to reach me **burakdorman@gmail.com**
+- 📫 You can reach me via **burakdorman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
