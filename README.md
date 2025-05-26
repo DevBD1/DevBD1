@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Routiner](https://github.com/DevBD1/Routiner)
 
-- 🌱 I’m currently learning **Typescript (React Native) and Java (Spigot).**
+- 🌱 I’m currently learning **TypeScript (ReactNative) and Java (Spigot).**
 
 - 📫 You can reach me via **burakdorman@gmail.com**
 
