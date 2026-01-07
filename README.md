@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevBD1&label=Profile%20views&color=0e75b6&style=flat" alt="DevBD1" /> </p>
 
-- 🔭 I’m currently working on [Cublex Labs](https://github.com/CublexLabs)
+- 🔭 I’m currently building [Kukso Studios]([https://github.com/CublexLabs](https://github.com/KuksoHQ))
+- My portfolio site: https://devbd1.github.io/
 - Check my latest AI powered Habit Tracker: https://github.com/DevBD1/Routiner
 
 - 🌱 I’m currently learning **TypeScript (ReactNative) and Java (Spigot).**
