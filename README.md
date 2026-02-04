@@ -8,21 +8,34 @@ Currently looking for a **Summer 2026 internship** where I can contribute real c
 
 ### 🔨 What I'm Building
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**FirstSpawn**](https://github.com/DevBD1/firstspawn-monorepo) | Server discovery platform for Hytale players | TypeScript, Monorepo |
-| [**Wickdbot**](#) | Algorithmic trading bot applying smart money concepts | Python |
-| [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo |
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [**FirstSpawn**](https://firstspawn.com) | Server discovery platform for Hytale players | TypeScript | 🟡 WIP |
+| **Wickdbot** | Algorithmic trading bot applying smart money concepts | Python | 🔒 Undisclosed |
+| [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo | 🟠 MVP |
 
 ### 📂 Other Notable Work
 
-| Project | What it does | Stack |
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [**GraphSNA**](https://github.com/DevBD1/graphSNA) | Graph visualization & social network analysis — Dijkstra, A*, BFS/DFS, Welsh-Powell coloring | C#, WinForms | 🟠 MVP |
+| [**CognitiveFire**](https://github.com/DevBD1/CognitiveFire) | Third-person shooter built in Unity 6.2 | C#, Unity | 🔵 Concept |
+| [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native, Expo | ✅ Delivered |
+| [**Correlation Tracker**](https://github.com/DevBD1/Correlation-Tracker) | Tracks correlated price action between crypto pairs | Python | 🟡 WIP |
+| [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino | ✅ Delivered |
+
+### 🏢 Kukso Studios
+
+[**Kukso Studios**](https://github.com/KuksoHQ) — My game plugin studio. I build and publish Minecraft & Hytale server plugins.
+
+| Plugin | What it does | Stack |
 |---|---|---|
-| [**GraphSNA**](https://github.com/DevBD1/graphSNA) | Graph visualization & social network analysis tool — Dijkstra, A*, BFS/DFS, Welsh-Powell coloring | C#, WinForms |
-| [**CognitiveFire**](https://github.com/DevBD1/CognitiveFire) | Third-person shooter built in Unity 6.2 | C#, Unity |
-| [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native, Expo |
-| [**Correlation Tracker**](https://github.com/DevBD1/Correlation-Tracker) | Tracks correlated price action between crypto pairs | Python |
-| [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino |
+| [kukso-mc-lib](https://github.com/KuksoHQ/kukso-mc-lib) | Spigot development library for Minecraft plugins | Java |
+| [kukso-mc-worlds](https://github.com/KuksoHQ/kukso-mc-worlds) | Custom world management — void gen, hot loading, per-world permissions | Java |
+| [kukso-mc-dialogs](https://github.com/KuksoHQ/kukso-mc-dialogs) | In-game dialog system for Minecraft 1.21.6+ | Java |
+| [kukso-hy-lib](https://github.com/KuksoHQ/kukso-hy-lib) | Core library for the Hytale mods ecosystem | Java |
+| [kukso-hy-warps](https://github.com/KuksoHQ/kukso-hy-warps) | Warp system for Hytale servers | Java |
+| [kukso-hy-econ](https://github.com/KuksoHQ/kukso-hy-econ) | Economy system for Hytale servers | Java |
 
 ---
 
@@ -32,7 +45,7 @@ Currently looking for a **Summer 2026 internship** where I can contribute real c
 **Frontend:** React Native · Expo  
 **Backend & Data:** Firebase · MySQL · SQLite  
 **AI/ML:** PyTorch · OpenCV · Computer Vision  
-**Game Dev:** Unity  
+**Game Dev:** Unity · Spigot · Hytale Modding  
 **Tools:** Git · Linux · Docker · Arduino  
 
 ---
@@ -40,8 +53,8 @@ Currently looking for a **Summer 2026 internship** where I can contribute real c
 ### 📊 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBD1&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBD1&layout=compact&hide_border=true&count_private=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-devbd1.vercel.app/api?username=DevBD1&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-devbd1.vercel.app/api/top-langs/?username=DevBD1&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
