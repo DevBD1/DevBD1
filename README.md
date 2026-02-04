@@ -2,7 +2,7 @@
 
 **Software Engineer** building things that work. 3rd-year Information Systems Engineering student at Kocaeli University, interested in end-to-end product development and AI/ML.
 
-Currently looking for a **Summer 2026 internship** where I can contribute real code.
+Currently looking for a **Summer 2026 mandatory internship** where I can contribute real code.
 
 ---
 
@@ -10,8 +10,8 @@ Currently looking for a **Summer 2026 internship** where I can contribute real c
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| [**FirstSpawn**](https://firstspawn.com) | Server discovery platform for Hytale players | TypeScript | 🟡 WIP |
-| **Wickdbot** | Algorithmic trading bot applying smart money concepts | Python | 🔒 Undisclosed |
+| **Wickdbot** | Algorithmic trading bot applying smart money concepts | Node.js | 🔒 Undisclosed |
+| [**FirstSpawn**](https://firstspawn.com) | Server discovery platform for Hytale players | Next.js | 🟡 WIP |
 | [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo | 🟠 MVP |
 
 ### 📂 Other Notable Work
@@ -26,10 +26,11 @@ Currently looking for a **Summer 2026 internship** where I can contribute real c
 
 ### 🏢 Kukso Studios
 
-[**Kukso Studios**](https://github.com/KuksoHQ) — My game plugin studio. I build and publish Minecraft & Hytale server plugins.
+[**Kukso Studios**](https://github.com/KuksoHQ) — My game plugin development studio. I build and publish Minecraft & Hytale server plugins.
 
 | Plugin | What it does | Stack |
 |---|---|---|
+| [kukso-website](https://github.com/KuksoHQ/KuksoHQ.GitHub.io) | Website for showcase and docs | React Docusaurus |
 | [kukso-mc-lib](https://github.com/KuksoHQ/kukso-mc-lib) | Spigot development library for Minecraft plugins | Java |
 | [kukso-mc-worlds](https://github.com/KuksoHQ/kukso-mc-worlds) | Custom world management — void gen, hot loading, per-world permissions | Java |
 | [kukso-mc-dialogs](https://github.com/KuksoHQ/kukso-mc-dialogs) | In-game dialog system for Minecraft 1.21.6+ | Java |
@@ -41,20 +42,22 @@ Currently looking for a **Summer 2026 internship** where I can contribute real c
 
 ### 🛠 Tech Stack
 
-**Languages:** TypeScript · JavaScript · Python · C# · Java · MATLAB  
-**Frontend:** React Native · Expo  
-**Backend & Data:** Firebase · MySQL · SQLite  
-**AI/ML:** PyTorch · OpenCV · Computer Vision  
-**Game Dev:** Unity · Spigot · Hytale Modding  
-**Tools:** Git · Linux · Docker · Arduino  
+**Languages:** Java · C# · Python · MATLAB 
+**Frontend:** React · Next.js 
+**Backend:** Firebase · PostgreSQL + Prisma
+**Data:** Firebase · MySQL · SQLite 
+**Mobile:** React Native Expo 
+**AI/ML:** PyTorch · OpenCV · Computer Vision 
+**Game Dev:** Unity · Unreal Engine · Minecraft Plugins · Hytale Modding 
+**Tools:** Git · Linux · Docker · Arduino 
 
 ---
 
 ### 📊 GitHub Activity
 
 <p>
-  <img src="https://github-readme-stats-devbd1.vercel.app/api?username=DevBD1&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-devbd1.vercel.app/api/top-langs/?username=DevBD1&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevBD1&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBD1&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
