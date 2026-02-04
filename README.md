@@ -1,43 +1,53 @@
-<h1 align="center">Hi 👋, I'm Burak!</h1>
-<h3 align="center">A developer from Turkiye.</h3>
+# Hey, I'm Burak 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevBD1&label=Profile%20views&color=0e75b6&style=flat" alt="DevBD1" /> </p>
+**Software Engineer** building things that work. 3rd-year Information Systems Engineering student at Kocaeli University, interested in end-to-end product development and AI/ML.
 
-- 🔭 I’m currently building [Kukso Studios](https://kukso.com/)
-- My portfolio site: https://devbd1.github.io/
-- Check my latest AI powered Habit Tracker: https://github.com/DevBD1/Routiner
+Currently looking for a **Summer 2026 internship** where I can contribute real code.
 
-- 🌱 I’m currently learning **TypeScript (ReactNative) and Java (Spigot).**
+---
 
-- 📫 You can reach me via **burakdorman@gmail.com**
+### 🔨 What I'm Building
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/burakdorman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DevBD1" height="30" width="40" /></a>
+| Project | What it does | Stack |
+|---|---|---|
+| [**FirstSpawn**](https://github.com/DevBD1/firstspawn-monorepo) | Server discovery platform for Hytale players | TypeScript, Monorepo |
+| [**Wickdbot**](#) | Algorithmic trading bot applying smart money concepts | Python |
+| [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo |
+
+### 📂 Other Notable Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**GraphSNA**](https://github.com/DevBD1/graphSNA) | Graph visualization & social network analysis tool — Dijkstra, A*, BFS/DFS, Welsh-Powell coloring | C#, WinForms |
+| [**CognitiveFire**](https://github.com/DevBD1/CognitiveFire) | Third-person shooter built in Unity 6.2 | C#, Unity |
+| [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native, Expo |
+| [**Correlation Tracker**](https://github.com/DevBD1/Correlation-Tracker) | Tracks correlated price action between crypto pairs | Python |
+| [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino |
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:** TypeScript · JavaScript · Python · C# · Java · MATLAB  
+**Frontend:** React Native · Expo  
+**Backend & Data:** Firebase · MySQL · SQLite  
+**AI/ML:** PyTorch · OpenCV · Computer Vision  
+**Game Dev:** Unity  
+**Tools:** Git · Linux · Docker · Arduino  
+
+---
+
+### 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevBD1&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBD1&layout=compact&hide_border=true&count_private=true" alt="Top Languages" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+---
 
-/ | Logo | Description
---- | --- | ---  
-Languages | <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> | Java, JavaScript, TypeScript, ReactNative, MATLAB
-Database | <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> | Firebase, MySQL, SQLite
-Tools | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | Git, Linux
+<p>
+  <a href="https://devbd1.github.io">🌐 Portfolio</a> · 
+  <a href="https://linkedin.com/in/burakdorman">💼 LinkedIn</a> · 
+  <a href="mailto:burakdorman@gmail.com">📫 Email</a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevBD1&show_icons=true&locale=en&layout=compact" alt="DevBD1" /></p>
-
-https://buymeacoffee.com/DevBD1
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
