@@ -1,43 +1,72 @@
-<h1 align="center">Hi 👋, I'm Burak!</h1>
-<h3 align="center">A developer from Turkiye.</h3>
+# Hey, I'm Burak 👋
 
+**Full-Stack Software Engineer** building things that work. 3rd-year Information Systems Engineering student at Kocaeli University, interested in end-to-end product development and AI/ML.
+
+Currently looking for a **Summer 2026 mandatory internship** where I can contribute real code.
+
+---
+
+### 🔨 What I'm Building
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **Wickdbot** | Algorithmic trading bot applying smart money concepts | Node.js | Undisclosed |
+| [**FirstSpawn**](https://firstspawn.com) | Server discovery platform for Hytale players | Next.js | Work in Progress |
+| [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo | Minimum Viable Product |
+
+### 📂 Other Notable Work
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [**GraphSNA**](https://github.com/DevBD1/graphSNA) | Graph visualization & social network analysis — Dijkstra, A*, BFS/DFS, Welsh-Powell coloring | C#, WinForms | Minimum Viable Product |
+| [**CognitiveFire**](https://github.com/DevBD1/CognitiveFire) | Third-person shooter built in Unity 6.2 | C#, Unity | Concept Product |
+| [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native, Expo | Delivered Product |
+| [**Correlation Tracker**](https://github.com/DevBD1/Correlation-Tracker) | Tracks correlated price action between crypto pairs | Python | Work in Progress |
+| [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino | Delivered Product |
+
+### 🏢 Kukso Studios
+
+[**Kukso Studios**](https://github.com/KuksoHQ) ([Web](http://kukso.com/)) — My game plugin development studio. I build and publish Minecraft & Hytale server plugins.
+
+| Plugin | What it does | Stack |
+|---|---|---|
+| [kukso-website](https://github.com/KuksoHQ/KuksoHQ.GitHub.io) | Website for showcase and docs | React Docusaurus |
+| [kukso-mc-lib](https://github.com/KuksoHQ/kukso-mc-lib) | Spigot development library for Minecraft plugins | Java |
+| [kukso-mc-worlds](https://github.com/KuksoHQ/kukso-mc-worlds) | Custom world management — void gen, hot loading, per-world permissions | Java |
+| [kukso-mc-dialogs](https://github.com/KuksoHQ/kukso-mc-dialogs) | In-game dialog system for Minecraft 1.21.6+ | Java |
+| [kukso-hy-lib](https://github.com/KuksoHQ/kukso-hy-lib) | Core library for the Hytale mods ecosystem | Java |
+| [kukso-hy-warps](https://github.com/KuksoHQ/kukso-hy-warps) | Warp system for Hytale servers | Java |
+| [kukso-hy-econ](https://github.com/KuksoHQ/kukso-hy-econ) | Economy system for Hytale servers | Java |
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** Java · C# · Python · MATLAB 
+- **Frontend:** React · Next.js 
+- **Backend:** Firebase · PostgreSQL + Prisma
+- **Data:** Firebase · MySQL · SQLite 
+- **Mobile:** React Native Expo 
+- **AI/ML:** PyTorch · OpenCV · Computer Vision 
+- **Game Dev:** Unity · Unreal Engine · Minecraft Plugins · Hytale Modding 
+- **Tools:** Git · Linux · Docker · Arduino 
+
+---
+
+## 📊 GitHub Stats:
+
+### My Contributions
+![](https://github-readme-stats.vercel.app/api?username=devbd1&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=devbd1&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devbd1&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devbd1&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=codepen&logoColor=white)](https://devbd1.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakdorman) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devbd98) 
+[![E-mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:burakdorman@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevBD1&label=Profile%20views&color=0e75b6&style=flat" alt="DevBD1" /> </p>
-
-- 🔭 I’m currently building [Kukso Studios](https://kukso.com/)
-- My portfolio site: https://devbd1.github.io/
-- Check my latest AI powered Habit Tracker: https://github.com/DevBD1/Routiner
-
-- 🌱 I’m currently learning **TypeScript (ReactNative) and Java (Spigot).**
-
-- 📫 You can reach me via **burakdorman@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/burakdorman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DevBD1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-/ | Logo | Description
---- | --- | ---  
-Languages | <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> | Java, JavaScript, TypeScript, ReactNative, MATLAB
-Database | <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> | Firebase, MySQL, SQLite
-Tools | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | Git, Linux
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevBD1&show_icons=true&locale=en&layout=compact" alt="DevBD1" /></p>
-
-https://buymeacoffee.com/DevBD1
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
