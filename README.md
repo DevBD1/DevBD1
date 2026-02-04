@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevBD1&label=Profile%20views&color=0e75b6&style=flat" alt="DevBD1" /> </p>
 # Hey, I'm Burak 👋
 
 **Full-Stack Software Engineer** building things that work. 3rd-year Information Systems Engineering student at Kocaeli University, interested in end-to-end product development and AI/ML.
