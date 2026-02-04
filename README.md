@@ -10,19 +10,19 @@ Currently looking for a **Summer 2026 mandatory internship** where I can contrib
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| **Wickdbot** | Algorithmic trading bot applying smart money concepts | Node.js | 🔒 Undisclosed |
-| [**FirstSpawn**](https://firstspawn.com) | Server discovery platform for Hytale players | Next.js | 🟡 WIP |
-| [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo | 🟠 MVP |
+| **Wickdbot** | Algorithmic trading bot applying smart money concepts | Node.js | Undisclosed |
+| [**FirstSpawn**](https://firstspawn.com) | Server discovery platform for Hytale players | Next.js | Work in Progress |
+| [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo | Minimum Viable Product |
 
 ### 📂 Other Notable Work
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| [**GraphSNA**](https://github.com/DevBD1/graphSNA) | Graph visualization & social network analysis — Dijkstra, A*, BFS/DFS, Welsh-Powell coloring | C#, WinForms | 🟠 MVP |
-| [**CognitiveFire**](https://github.com/DevBD1/CognitiveFire) | Third-person shooter built in Unity 6.2 | C#, Unity | 🔵 Concept |
-| [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native, Expo | ✅ Delivered |
-| [**Correlation Tracker**](https://github.com/DevBD1/Correlation-Tracker) | Tracks correlated price action between crypto pairs | Python | 🟡 WIP |
-| [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino | ✅ Delivered |
+| [**GraphSNA**](https://github.com/DevBD1/graphSNA) | Graph visualization & social network analysis — Dijkstra, A*, BFS/DFS, Welsh-Powell coloring | C#, WinForms | Minimum Viable Product |
+| [**CognitiveFire**](https://github.com/DevBD1/CognitiveFire) | Third-person shooter built in Unity 6.2 | C#, Unity | Concept Product |
+| [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native, Expo | Delivered Product |
+| [**Correlation Tracker**](https://github.com/DevBD1/Correlation-Tracker) | Tracks correlated price action between crypto pairs | Python | Work in Progress |
+| [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino | Delivered Product |
 
 ### 🏢 Kukso Studios
 
