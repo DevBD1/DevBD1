@@ -1,6 +1,6 @@
 # Hey, I'm Burak 👋
 
-**Software Engineer** building things that work. 3rd-year Information Systems Engineering student at Kocaeli University, interested in end-to-end product development and AI/ML.
+**Full-Stack Software Engineer** building things that work. 3rd-year Information Systems Engineering student at Kocaeli University, interested in end-to-end product development and AI/ML.
 
 Currently looking for a **Summer 2026 mandatory internship** where I can contribute real code.
 
@@ -26,7 +26,7 @@ Currently looking for a **Summer 2026 mandatory internship** where I can contrib
 
 ### 🏢 Kukso Studios
 
-[**Kukso Studios**](https://github.com/KuksoHQ) — My game plugin development studio. I build and publish Minecraft & Hytale server plugins.
+[**Kukso Studios**](https://github.com/KuksoHQ) ([Web](http://kukso.com/)) — My game plugin development studio. I build and publish Minecraft & Hytale server plugins.
 
 | Plugin | What it does | Stack |
 |---|---|---|
@@ -42,28 +42,30 @@ Currently looking for a **Summer 2026 mandatory internship** where I can contrib
 
 ### 🛠 Tech Stack
 
-**Languages:** Java · C# · Python · MATLAB 
-**Frontend:** React · Next.js 
-**Backend:** Firebase · PostgreSQL + Prisma
-**Data:** Firebase · MySQL · SQLite 
-**Mobile:** React Native Expo 
-**AI/ML:** PyTorch · OpenCV · Computer Vision 
-**Game Dev:** Unity · Unreal Engine · Minecraft Plugins · Hytale Modding 
-**Tools:** Git · Linux · Docker · Arduino 
+- **Languages:** Java · C# · Python · MATLAB 
+- **Frontend:** React · Next.js 
+- **Backend:** Firebase · PostgreSQL + Prisma
+- **Data:** Firebase · MySQL · SQLite 
+- **Mobile:** React Native Expo 
+- **AI/ML:** PyTorch · OpenCV · Computer Vision 
+- **Game Dev:** Unity · Unreal Engine · Minecraft Plugins · Hytale Modding 
+- **Tools:** Git · Linux · Docker · Arduino 
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Stats:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBD1&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBD1&layout=compact&hide_border=true" alt="Top Languages" height="165" />
-</p>
+### My Contributions
+![](https://github-readme-stats.vercel.app/api?username=devbd1&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=devbd1&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devbd1&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devbd1&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
 
-<p>
-  <a href="https://devbd1.github.io">🌐 Portfolio</a> · 
-  <a href="https://linkedin.com/in/burakdorman">💼 LinkedIn</a> · 
-  <a href="mailto:burakdorman@gmail.com">📫 Email</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=codepen&logoColor=white)](https://devbd1.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakdorman) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devbd98) 
+[![E-mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:burakdorman@gmail.com) 
