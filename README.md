@@ -1,3 +1,12 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevBD1&label=Profile%20views&color=0e75b6&style=flat" alt="DevBD1" /> </p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=codepen&logoColor=white)](https://devbd1.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakdorman) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devbd98) 
+[![E-mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:burakdorman@gmail.com) 
+
+---
+
 # Hey, I'm Burak 👋
 
 **Full-Stack Software Engineer** building things that work. 3rd-year Information Systems Engineering student at Kocaeli University, interested in end-to-end product development and AI/ML.
@@ -64,9 +73,3 @@ Currently looking for a **Summer 2026 mandatory internship** where I can contrib
 ![](https://github-contributor-stats.vercel.app/api?username=devbd1&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=codepen&logoColor=white)](https://devbd1.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakdorman) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devbd98) 
-[![E-mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:burakdorman@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevBD1&label=Profile%20views&color=0e75b6&style=flat" alt="DevBD1" /> </p>
