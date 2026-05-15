@@ -11,15 +11,13 @@
 
 **Full-Stack Software Engineer** building things that work. 3rd-year Information Systems Engineering student at Kocaeli University, interested in end-to-end product development and AI/ML/DL.
 
-Currently looking for a **Summer 2026 mandatory internship** where I can contribute real code.
-
 ---
 
 ### 🔨 What I'm Building
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| [**Wickdbot**](https://github.com/WickdAlgo/wickdbot-dotnet) | Algorithmic trading bot applying smart money concepts | .NER | Undisclosed |
+| [**Wickdbot**](https://github.com/WickdAlgo/wickdbot-dotnet) | Algorithmic trading bot applying smart money concepts | DOTNET | Undisclosed |
 | [**FirstSpawn**](https://firstspawn.com) | Server discovery platform for Minecraft & Hytale | Next.js | WIP |
 | [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo | MVP |
 
