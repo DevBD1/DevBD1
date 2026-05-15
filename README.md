@@ -51,14 +51,14 @@ Currently looking for a **Summer 2026 mandatory internship** where I can contrib
 
 ### 🛠 Tech Stack
 
-- **Languages:** Java · C# · Python · MATLAB 
+- **Languages:** C · C# · Java · Python 
 - **Frontend:** React · Next.js 
-- **Backend:** Firebase · PostgreSQL + Prisma
-- **Data:** Firebase · MySQL · SQLite 
+- **Backend:** Node.js Express · NestJS
+- **Database:** PostgreSQL · MySQL · SQLite 
 - **Mobile:** React Native Expo 
 - **AI/ML:** PyTorch · OpenCV · Computer Vision 
 - **Game Dev:** Unity · Unreal Engine · Minecraft Plugins · Hytale Modding 
-- **Tools:** Git · Linux · Docker · Arduino 
+- **Tools:** Git · Linux · Docker 
 
 ---
 
