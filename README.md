@@ -13,7 +13,9 @@
 
 ---
 
-### 🔨 What I'm Building
+## What I'm Building
+
+### The Most Recent Ones
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
@@ -21,7 +23,7 @@
 | [**FirstSpawn**](https://github.com/DevBD1/firstspawn-monorepo) - [Website](https://firstspawn.com) | Server and community discovery platform for Minecraft & Hytale | Next.js, Fastify, PostgreSQL and Drizzle | v0.1 |
 | [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native (Expo) | v0.1 |
 
-### 📂 Other Notable Work
+### Other Notable Work
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
@@ -30,7 +32,7 @@
 | [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native (Expo) | v1.0 |
 | [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino | v1.0 |
 
-### 🏢 Kukso Studios
+### Kukso Studios
 
 [**Kukso Studios**](https://github.com/KuksoHQ) ([Web](http://kukso.com/)) — My game plugin development studio. I build and publish Minecraft & Hytale server plugins.
 
@@ -46,7 +48,7 @@
 
 ---
 
-### 🛠 Tech Stack
+## Tech Stack
 
 - **Languages:** C · C++ · C# · Java 
 - **Frontend:** React · Next.js 
@@ -59,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 ### My Contributions
 ![](https://github-readme-stats.vercel.app/api?username=devbd1&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
