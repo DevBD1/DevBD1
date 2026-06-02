@@ -16,7 +16,7 @@
 ## What I'm Building
 
 ### The Most Recent Ones
-
+[v0.x -> pre-release, v1.x -> stable]
 | Project | What it does | Stack | Status |
 |---|---|---|---|
 | [**WickdAlgo.CLI**](https://github.com/WickdAlgo/wickdbot-dotnet) | CLI tool for identifying smart money concept structures | DOTNET | v1.0 |
