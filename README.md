@@ -18,7 +18,7 @@
 | Project | What it does | Stack | Status |
 |---|---|---|---|
 | [**WickdAlgo.CLI**](https://github.com/WickdAlgo/wickdbot-dotnet) | CLI tool for identifying smart money concept structures | DOTNET | v1.0 |
-| [**FirstSpawn**](https://github.com/DevBD1/firstspawn-monorepo) | [Website](https://firstspawn.com) | Server and community discovery platform for Minecraft & Hytale | Next.js, Fastify, PostgreSQL and Drizzle | v0.1 |
+| [**FirstSpawn**](https://github.com/DevBD1/firstspawn-monorepo) - [Website](https://firstspawn.com) | Server and community discovery platform for Minecraft & Hytale | Next.js, Fastify, PostgreSQL and Drizzle | v0.1 |
 | [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native (Expo) | v0.1 |
 
 ### 📂 Other Notable Work
