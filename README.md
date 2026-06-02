@@ -28,7 +28,6 @@
 | [**GraphSNA**](https://github.com/DevBD1/graphSNA) | Graph visualization & social network analysis — Dijkstra, A*, BFS/DFS, Welsh-Powell coloring | C#, WinForms | v1.0 |
 | [**CognitiveFire**](https://github.com/DevBD1/CognitiveFire) | Third-person shooter built in Unity 6.2 | C#, Unity | v0.1 |
 | [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native (Expo) | v1.0 |
-| [**Correlation Tracker**](https://github.com/DevBD1/Correlation-Tracker) | Tracks correlated price action between crypto pairs | Python | Cancelled |
 | [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino | v1.0 |
 
 ### 🏢 Kukso Studios
