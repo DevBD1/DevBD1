@@ -17,44 +17,44 @@
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| [**WickdAlgo.CLI**](https://github.com/WickdAlgo/wickdbot-dotnet) | CLI tool for identifying smart money concept structures | DOTNET | Undisclosed |
-| [**FirstSpawn**](https://github.com/DevBD1/firstspawn-monorepo) [Website](https://firstspawn.com) | Server discovery platform for Minecraft & Hytale | Next.js | WIP |
-| [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo | MVP |
+| [**WickdAlgo.CLI**](https://github.com/WickdAlgo/wickdbot-dotnet) | CLI tool for identifying smart money concept structures | DOTNET | v1.0 |
+| [**FirstSpawn**](https://github.com/DevBD1/firstspawn-monorepo) | [Website](https://firstspawn.com) | Server and community discovery platform for Minecraft & Hytale | Next.js, Fastify, PostgreSQL and Drizzle | v0.1 |
+| [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native (Expo) | v0.1 |
 
 ### 📂 Other Notable Work
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| [**GraphSNA**](https://github.com/DevBD1/graphSNA) | Graph visualization & social network analysis — Dijkstra, A*, BFS/DFS, Welsh-Powell coloring | C#, WinForms | MVP |
-| [**CognitiveFire**](https://github.com/DevBD1/CognitiveFire) | Third-person shooter built in Unity 6.2 | C#, Unity | Delivered Concept Product |
-| [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native, Expo | Delivered Product |
+| [**GraphSNA**](https://github.com/DevBD1/graphSNA) | Graph visualization & social network analysis — Dijkstra, A*, BFS/DFS, Welsh-Powell coloring | C#, WinForms | v1.0 |
+| [**CognitiveFire**](https://github.com/DevBD1/CognitiveFire) | Third-person shooter built in Unity 6.2 | C#, Unity | v0.1 |
+| [**DAIEM**](https://github.com/DevBD1/DAIEM) | First-aid training app with assessments & student dashboard | React Native (Expo) | v1.0 |
 | [**Correlation Tracker**](https://github.com/DevBD1/Correlation-Tracker) | Tracks correlated price action between crypto pairs | Python | Cancelled |
-| [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino | Delivered Product |
+| [**PID Liquid Transfer**](https://github.com/DevBD1/PID_Controlled_Liquid_Transfer) | PID-controlled liquid transfer system with Arduino & MATLAB | MATLAB, Arduino | v1.0 |
 
 ### 🏢 Kukso Studios
 
 [**Kukso Studios**](https://github.com/KuksoHQ) ([Web](http://kukso.com/)) — My game plugin development studio. I build and publish Minecraft & Hytale server plugins.
 
-| Plugin | What it does | Stack |
-|---|---|---|
-| [kukso-website](https://github.com/KuksoHQ/KuksoHQ.GitHub.io) | Website for showcase and docs | React Docusaurus |
-| [kukso-mc-lib](https://github.com/KuksoHQ/kukso-mc-lib) | Spigot development library for Minecraft plugins | Java |
-| [kukso-mc-worlds](https://github.com/KuksoHQ/kukso-mc-worlds) | Custom world management — void gen, hot loading, per-world permissions | Java |
-| [kukso-mc-dialogs](https://github.com/KuksoHQ/kukso-mc-dialogs) | In-game dialog system for Minecraft 1.21.6+ | Java |
-| [kukso-hy-lib](https://github.com/KuksoHQ/kukso-hy-lib) | Core library for the Hytale mods ecosystem | Java |
-| [kukso-hy-warps](https://github.com/KuksoHQ/kukso-hy-warps) | Warp system for Hytale servers | Java |
-| [kukso-hy-econ](https://github.com/KuksoHQ/kukso-hy-econ) | Economy system for Hytale servers | Java |
+| Plugin | What it does | Stack | Status |
+|---|---|---|---|
+| [kukso-website](https://github.com/KuksoHQ/KuksoHQ.GitHub.io) | Website for showcase and docs | React Docusaurus | Live |
+| [kukso-mc-lib](https://github.com/KuksoHQ/kukso-mc-lib) | Spigot development library for Minecraft plugins | Java | Released |
+| [kukso-mc-worlds](https://github.com/KuksoHQ/kukso-mc-worlds) | Custom world management — void gen, hot loading, per-world permissions | Java | Released |
+| [kukso-mc-dialogs](https://github.com/KuksoHQ/kukso-mc-dialogs) | In-game dialog system for Minecraft 1.21.6+ | Java | Released |
+| [kukso-hy-lib](https://github.com/KuksoHQ/kukso-hy-lib) | Core library for the Hytale mods ecosystem | Java | Released |
+| [kukso-hy-warps](https://github.com/KuksoHQ/kukso-hy-warps) | Warp system for Hytale servers | Java | Released |
+| [kukso-hy-econ](https://github.com/KuksoHQ/kukso-hy-econ) | Economy system for Hytale servers | Java | Released |
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** C · C# · Java · Python 
+- **Languages:** C · C++ · C# · Java 
 - **Frontend:** React · Next.js 
-- **Backend:** Node.js Express · NestJS
+- **Backend:** Node.js Express · Fastify 
 - **Database:** PostgreSQL · MySQL · SQLite 
-- **Mobile:** React Native Expo 
-- **AI/ML:** PyTorch · OpenCV · Computer Vision 
+- **Mobile:** React Native (Expo) 
+- **AI/ML/DL:** PyTorch · OpenCV · Computer Vision 
 - **Game Dev:** Unity · Unreal Engine · Minecraft Plugins · Hytale Modding 
 - **Tools:** Git · Linux · Docker 
 
