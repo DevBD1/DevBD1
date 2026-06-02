@@ -17,8 +17,8 @@
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| [**Wickdbot**](https://github.com/WickdAlgo/wickdbot-dotnet) | Algorithmic trading bot applying smart money concepts | DOTNET | Undisclosed |
-| [**FirstSpawn**](https://firstspawn.com) | Server discovery platform for Minecraft & Hytale | Next.js | WIP |
+| [**WickdAlgo.CLI**](https://github.com/WickdAlgo/wickdbot-dotnet) | CLI tool for identifying smart money concept structures | DOTNET | Undisclosed |
+| [**FirstSpawn**](https://github.com/DevBD1/firstspawn-monorepo) [Website](https://firstspawn.com) | Server discovery platform for Minecraft & Hytale | Next.js | WIP |
 | [**Routiner**](https://github.com/DevBD1/Routiner) | AI-powered habit tracker — build good habits, break bad ones | React Native, Expo | MVP |
 
 ### 📂 Other Notable Work
