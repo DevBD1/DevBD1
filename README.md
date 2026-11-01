@@ -35,15 +35,14 @@
 ## Tech Stack
 
 <!-- PORTFOLIO:skills:START -->
-- **Languages:** Java · TypeScript · JavaScript · Python · Solidity · C# · C++
-- **Frontend:** React · Next.js · Astro · Tailwind CSS
-- **Backend:** Node.js · Express
-- **Mobile:** React Native
-- **Game Development:** Unity · Unreal Engine
+- **Languages:** C++ · C# · Java · Python · SQL
+- **Frontend:** React
+- **Backend:** Node.js · .NET
+- **Mobile:** React Native · Expo
 - **IoT:** ThingsBoard · Node-RED · Modbus
 - **Databases:** PostgreSQL · Redis · SQLite
-- **DevOps:** Docker · AWS
-- **AI/ML:** LLM engineering · TensorFlow · RAG
+- **DevOps:** Docker · GitHub Actions · CI/CD
+- **AI/ML:** LLM engineering · RAG · AI agent design
 <!-- PORTFOLIO:skills:END -->
 
 ---
